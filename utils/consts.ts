@@ -13,5 +13,4 @@ export const MAIN_URLS =[
     {name: 'Negociation', url: '/negociation'},
     {name: 'Contact', url: '/contact'},
 ]
-
 export const MOBILE_WIDTH = 768;
